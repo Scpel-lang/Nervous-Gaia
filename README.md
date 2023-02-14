@@ -34,6 +34,6 @@ If in need of a detailed discussion about the entire project or have any suggest
 are free to reach out via mail, or raise an issue at this repo.
 
 Best of regards:
-	Francis Ssessaazi
+	Francis Ssessaazi    
 	[Scpel Software Foundation](https://www.scpel.org/ssfoundation)    
 	phrunsys.scpel.256.ug@gmail.com
