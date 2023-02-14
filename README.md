@@ -1,20 +1,22 @@
 # Nervous-0.0.1-Gaia
 Based on a Neural kernel architecture, researched, inspired and coined by Francis Ssessaazi. Nervous is an artificial system kernel that serves to effectively 
 support super intelligence in a sense that the kernel itself is the AI but stronger,
-faster and more intelligent proportionally equivalent to a human mind!.
+faster and more intelligent and proportionally equivalent to a basic human mind.
 
 # Description
 Amongst the many types of kernels and research areas:
-[Monolithic kernels](https://en.wikipedia.org/wiki/Monolithic_kernel)
-[Micro kernels](https://en.wikipedia.org/wiki/Microkernel)
-[Hybrid kernels](https://en.wikipedia.org/wiki/Hybrid_kernel)
-[Exokernels](https://en.wikipedia.org/wiki/Exokernel) and more...
+[Monolithic kernels](https://en.wikipedia.org/wiki/Monolithic_kernel),
+[Micro kernels](https://en.wikipedia.org/wiki/Microkernel),
+[Hybrid kernels](https://en.wikipedia.org/wiki/Hybrid_kernel),
+[Exokernels](https://en.wikipedia.org/wiki/Exokernel), and more...
 The concept of [Neural Kernels](https://www.scpel.org/neural_kernels.html) unlike 
-[Neural Tangent Kernels](https://en.wikipedia.org/wiki/Neural_tangent_kernel) that 
-describes the evolution of deep artificial neural networks during their training,
-Neural kernels lie amongst the many types of Operating system kernels
-that serves as the core layer of an OS. With Neural Kernels, design and behaviour is
-rather expected to mimic that of a biological nervous system implemented in code.
+[Neural Tangent Kernels](https://en.wikipedia.org/wiki/Neural_tangent_kernel) (that 
+describes the evolution of deep artificial neural networks during their training),
+lie amongst the many types of Operating system kernels
+that serves as the core layer of an OS ([Operating System](https://en.wikipedia.org/wiki/Operating_system)) but in this case an
+AS ([Artificial System](https://www.scpel.org/artificial_systems.html)). With Neural Kernels, design and behaviour is
+rather expected to mimic that of a biological nervous system implemented in code to
+facilitate higher artificial brain's states like consciousness and subconsciousness.
 
 # Note to developers and enthusiasts
 This specific version of Nervous is based on Linux kernel 6.1.4 (a monolithic kernel)
@@ -24,8 +26,8 @@ an x86 architecture on this specific build that will create binaries that will r
 intelligently on your x86_64 Hardware.
 
 NOTE:
-	Nervous is made possible by Scpel, a programming language designed specifically
-	for this type of task and so yes, you need to build with a Scpel compiler.
+&emspNervous is made possible by Scpel, a programming language designed specifically
+&emspfor this type of task and so yes, you need to build with a Scpel compiler.
 	
 # Support
 If in need of a detailed discussion about the entire project or have any suggestions, you
