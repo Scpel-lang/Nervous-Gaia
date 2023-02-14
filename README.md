@@ -35,5 +35,5 @@ are free to reach out via mail, or raise an issue at this repo.
 
 Best of regards:
 	Francis Ssessaazi
-	[Scpel Software Foundation](https://www.scpel.org/ssfoundation)
+	[Scpel Software Foundation](https://www.scpel.org/ssfoundation)    
 	phrunsys.scpel.256.ug@gmail.com
