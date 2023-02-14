@@ -26,8 +26,8 @@ an x86 architecture on this specific build that will create binaries that will r
 intelligently on your x86_64 Hardware.
 
 NOTE:
-&emspNervous is made possible by Scpel, a programming language designed specifically
-&emspfor this type of task and so yes, you need to build with a Scpel compiler.
+ Nervous is made possible by Scpel, a programming language designed specifically
+for this type of task and so yes, you need to build with a Scpel compiler.
 	
 # Support
 If in need of a detailed discussion about the entire project or have any suggestions, you
